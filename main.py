@@ -4,8 +4,8 @@ import requests, datetime, time
 
 MY_LAT = 22.6161
 MY_LONG = 88.4360
-MY_EMAIL = "prathamjaiswal204@gmail.com"
-PASSWORD = "rhhxzirrnqoisxbi"
+MY_EMAIL = <YOUR_EMAIL>
+PASSWORD = <YOUR_PASSWORD>
 
 
 def is_night():
